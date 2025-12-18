@@ -30,7 +30,7 @@ To identify meaningful customer groups that businesses can use for:
 ---
 
 ## Results Preview
-Below is a visualization of customer segments created using K-Means clustering:
+This scatter plot shows customer segments created using **K-Means clustering** based on **Annual Income** and **Spending Score**, where each color represents a distinct customer group with similar purchasing behavior.
 ![Clusters](assetsVScluster_plot.png)
 <img width="1518" height="825" alt="assetsVScluster_plot" src="https://github.com/user-attachments/assets/917bb1bc-8df7-4c39-bf6c-deb19596d591" />
 
