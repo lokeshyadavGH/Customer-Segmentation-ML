@@ -52,12 +52,6 @@ Customer-Segmentation-ML/
 
 ---
 
-## 📊 Results Preview
-
-Below is a visualization of customer segments created using K-Means clustering:
-![Clusters](assetsVScluster_plot.png)
-<img width="1518" height="825" alt="assetsVScluster_plot" src="https://github.com/user-attachments/assets/917bb1bc-8df7-4c39-bf6c-deb19596d591" />
-
 
 ## Author
 **Lokesh Yadav**  
