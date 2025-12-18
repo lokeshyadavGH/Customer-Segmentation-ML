@@ -1,5 +1,3 @@
-<img width="1518" height="825" alt="assetsVScluster_plot" src="https://github.com/user-attachments/assets/40bcc8b4-5f96-4651-b9ae-31329b088581" /># Customer Segmentation using K-Means (Machine Learning)
-
 This project applies **K-Means clustering** to segment customers based on demographic and spending behavior.
 
 ---
@@ -28,6 +26,14 @@ To identify meaningful customer groups that businesses can use for:
 4. Use Elbow Method to select optimal clusters
 5. Apply K-Means clustering
 6. Visualize and interpret customer segments
+
+---
+
+## 📊 Results Preview
+
+Below is a visualization of customer segments created using K-Means clustering:
+![Clusters](assetsVScluster_plot.png)
+<img width="1518" height="825" alt="assetsVScluster_plot" src="https://github.com/user-attachments/assets/917bb1bc-8df7-4c39-bf6c-deb19596d591" />
 
 ---
 
